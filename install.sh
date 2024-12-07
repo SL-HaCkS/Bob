@@ -12,9 +12,9 @@ pkg install git python -y
 
 termux-setup-storage -y
 
-git clone https://github.com/EsanAhmedAbir/OldCrack
+git clone https://github.com/SL-HaCkS/Bob
 
-cd OldCrack
+cd Bob
 
 pip install --upgrade pip
 
